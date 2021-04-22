@@ -1,5 +1,5 @@
-import './styles/global.css';
+import './styles/global.scss';
 
 export function App() {
-  return <h1>Hello World 2</h1>;
+  return <h1>Renato</h1>;
 }
